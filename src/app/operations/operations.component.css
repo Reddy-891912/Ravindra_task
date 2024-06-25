@@ -1,0 +1,21 @@
+.parent{
+    width: 100%;
+    height: auto;
+    background-color: teal;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    background-color: red;
+    padding: 5px;
+}
+
+.task{
+    padding: 10px;
+    border: 1px solid gray;
+    box-shadow: 0px 0px 5px gray;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
